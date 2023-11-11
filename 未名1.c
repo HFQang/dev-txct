@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+//²âÊÔÎÒµÄÍÆËÍÀ²
+ 
 
 void bubble_sort(char *arr[], int n) {
 	int i,j;
